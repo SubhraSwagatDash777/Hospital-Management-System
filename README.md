@@ -18,21 +18,6 @@ iv) entity - The contructor and various getter/setter methods are defined in the
 v) db - It contains the DBConnect file in which the logic for connecting the application to the database is written.
 vi) dao - All the queries required for the CRUD operation is written in the dao package under the specific entity.
 
-# Screenshots
-
-![hospital_ss](https://github.com/om-3004/Hospital-Management-System/assets/76418145/a5de700e-3c4c-4fc9-8370-2e32727d7493)
-
-Index Page:
-
-https://github.com/om-3004/Hospital-Management-System/assets/76418145/e65eb032-3f5b-4ad4-b0f9-9c126b05f533
-
-Admin Page:
-
-https://github.com/om-3004/Hospital-Management-System/assets/76418145/eb1a79db-ff44-4fbe-9daf-146c3c838075
-
-Doctor Page: 
-
-https://github.com/om-3004/Hospital-Management-System/assets/76418145/e657714a-7902-4756-960e-af7abbc7710f
 
 Appointment & User Page:
 
