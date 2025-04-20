@@ -19,9 +19,7 @@ v) db - It contains the DBConnect file in which the logic for connecting the app
 vi) dao - All the queries required for the CRUD operation is written in the dao package under the specific entity.
 
 
-Appointment & User Page:
 
-https://github.com/om-3004/Hospital-Management-System/assets/76418145/f2d5a40f-681b-47f3-8504-680b8fa51395
 
 
 
